@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-form{
+#signup-form{
   display: flex;
   flex-direction: column;
   width: 300px;
   gap: 10px;
-  background-color: #f8f9fa;
+  background-color: rgb(248, 249, 250);
   border: 1px solid #ccc;
   border-radius: 4px;
   padding: 2rem;
